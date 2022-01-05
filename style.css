@@ -1,8 +1,4 @@
-body{
-    background-image: url(images/fa71bb00e87cab5916a5adf4cb144ca3.jpg);
-    background-size: contain;
-    background-attachment: fixed;
-}
+
 ol {
     display: block;
     list-style-type: decimal;
@@ -12,11 +8,9 @@ ol {
     margin-right: 0;
     padding-left: 70px;
   }
+=======
 .Description{
     margin: 70px;
-    background-color: rgb(255, 255, 255, 0.8);
-    padding: 10px;
-    border-radius: 12px;
 }
 .Description h2{
     font-family: 'Inconsolata', monospace;
@@ -26,11 +20,6 @@ ol {
 .Description p{
     margin: 40px;
     line-height: 30px;
-    font-size: 27px;
-}
-.Description ol{
-    margin: 40px;
-    line-height: 40px;
     font-size: 27px;
 }
 header{
