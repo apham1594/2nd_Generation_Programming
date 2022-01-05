@@ -1,3 +1,4 @@
+
 ol {
     display: block;
     list-style-type: decimal;
@@ -7,3 +8,33 @@ ol {
     margin-right: 0;
     padding-left: 70px;
   }
+=======
+.Description{
+    margin: 70px;
+}
+.Description h2{
+    font-family: 'Inconsolata', monospace;
+    font-size: 40px;
+    text-shadow: 2px 2px 3px grey;
+}
+.Description p{
+    margin: 40px;
+    line-height: 30px;
+    font-size: 27px;
+}
+header{
+    border-radius: 12px;
+    text-align: center;
+    background: linear-gradient(-45deg, rgb(83, 10, 83) 25%, rgb(96, 96, 219) 50%);
+    margin: 40px;
+    margin-top: 20px;
+    padding: 50px;
+        
+}
+header h1{
+    color: white;
+    text-indent: 30px;
+    font-weight: 400;
+    font-size: 4em;
+}
+
